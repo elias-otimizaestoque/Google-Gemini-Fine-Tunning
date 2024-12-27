@@ -5,6 +5,16 @@ Sou Elias Andrade, profissional com uma sólida formação e 14 anos de experiê
 
 Com minha experiência, tenho conseguido aplicar técnicas de IA para **análises automáticas** e **otimização de estoque**, permitindo que empresas integrem **tomada de decisões em tempo real**, utilizando insights de modelos poderosos de IA como o **Google Gemini Pro 2.0**.
 
+
+
+https://github.com/user-attachments/assets/764b517e-8913-4911-bf6c-f0fbc0f1d5b5
+
+
+
+https://github.com/user-attachments/assets/f3709468-efb7-4bdb-860f-aa707be62f8e
+
+
+
 ## ⚙️ **Google Gemini Pro 2.0 - Fine-Tuning de Cadeia de Pensamento (Reasoning Chain)**
 
 Neste repositório, apresento meu trabalho de fine-tuning em cima do modelo **Google Gemini Pro 2.0**, aplicando **cadeias de pensamento (reasoning chain)** para resolver problemas complexos e analíticos. Através desse processo, consegui adaptar o modelo para uma **alta capacidade lógica** e de **análise matemática** para aplicação em diversas áreas, incluindo **auditoria**, **gestão de compras**, **controle de estoque**, **automação de processos** e **otimização de fluxos logísticos**.
